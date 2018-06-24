@@ -1,0 +1,23 @@
+.inputdefault{
+    margin: 10px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.heading {
+    margin-top: 10px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.flex-container {
+    align-content: right;
+    display: inline;
+}
+
+
+.btn {
+    margin: 5px;
+}
